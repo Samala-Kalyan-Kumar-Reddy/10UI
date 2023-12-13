@@ -13,7 +13,8 @@ This repository showcases three creative web interfaces developed using HTML5 an
 2. **Fashion Clothes Design Interface**
    - Description: Dive into the world of fashion with this modern clothes design interface. Experience trendy layouts and stylish visuals.
 
-  <img width="431" alt="image" src="https://github.com/Samala-Kalyan-Kumar-Reddy/10UI/assets/82137130/754d14ca-2eeb-4dc9-b053-8c41d5cf757f">
+  <img width="902" alt="image" src="https://github.com/Samala-Kalyan-Kumar-Reddy/10UI/assets/82137130/60475e94-99be-4e1a-8e76-ea9339762b9a">
+
 
 
 3. **Food Restaurant Interface**
